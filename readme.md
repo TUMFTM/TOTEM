@@ -1,6 +1,10 @@
 # TOTEM - Topology Optimization Tool for Electric Mobility
 
-![TOTEM Logo](TOTEM logo.png)
+<div align="center">
+<img src="1. Implementation/1.5 manual Simulation/GUI/TOTEM logo.png" height="200" align="center">
+
+
+<div align="left">
 
 TOTEM is a tool that allows for a topological optimization of electric powertrains for passenger vehicles. 
 The tool has been developed at the Institute for Automotive Technology (FTM) at Technical University of Munich. (www.ftm.mw.tum.de) 
